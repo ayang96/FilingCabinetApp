@@ -1,0 +1,14 @@
+{
+    "title":"Group 14 Device",
+    "description":"This template can be used to create a basic KinomaJS application .",
+    "id":"group-14-device.project.kinoma.marvell.com",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "Element":{
+        "main":"main"
+    }
+}
